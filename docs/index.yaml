@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-21T09:40:19.804167306-08:00
+    description: A Helm chart for Kubernetes
+    digest: 39f89cc62e1afa45dff31328985da907f05946a7d71573213d24334c8d1ac7e5
+    name: notificationchart
+    urls:
+    - https://antineutrinos.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-21T09:40:19.803747-08:00
